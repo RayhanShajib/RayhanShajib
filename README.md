@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>### Hi there 👋</h1>
-[![An image of @rayhanshajib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rayhanshajib)](https://holopin.io/@rayhanshajib)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
