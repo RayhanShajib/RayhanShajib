@@ -40,6 +40,8 @@ I love to learn new things and read books.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhanshajib/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RayhanShajib500)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010039849267)
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 <!--
 **RayhanShajib/RayhanShajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
