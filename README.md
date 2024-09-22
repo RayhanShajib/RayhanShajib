@@ -28,12 +28,13 @@ I'm a Front End Developer passionate about JavaScript, React.js, TypeScript, Red
 
 I love to learn new things and read books.
 
-- 🌱 I’m currently learning many things
+- 🌱 I’m currently learning new things
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about JavaScript, React.js, Redux, and TypeScript.
 - 📫 I am just one mail away - [rayhanshajib500@gmail.com]
 - 😄 Pronouns: He, Tall & Happy 😄
-- :partying_face: Fun fact: I love to eat, I love to sleep, and I love to travel with my friends.
+- :partying_face: Fun fact: Eating, sleeping, and exploring new places with my crew are my favorite things.
+
 
 ### Where to find me
 
