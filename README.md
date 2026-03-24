@@ -42,8 +42,6 @@ I love to learn new things and read books.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RayhanShajib500)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010039849267)
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RayhanShajib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -52,6 +50,8 @@ I love to learn new things and read books.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RayhanShajib&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
