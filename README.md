@@ -50,7 +50,6 @@ I love to learn new things and read books.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RayhanShajib&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
