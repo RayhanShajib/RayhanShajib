@@ -52,7 +52,7 @@ I love to learn new things and read books.
 ![](https://github-readme-stats.vercel.app/api?username=RayhanShajib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RayhanShajib&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanShajib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanShajib&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 ---
 [![](https://visitcount.itsvg.in/api?id=RayhanShajib&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
