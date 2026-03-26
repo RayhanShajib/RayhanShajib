@@ -33,7 +33,7 @@ I love to learn new things and read books.
 - 🌱 I’m currently learning new things
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about JavaScript, React.js, Redux, TypeScript, NextJS, and Python.
-- 📫 I am just one mail away - [rayhanshajib500@gmail.com]
+- 📫 How to reach me: [rayhanshajib500@gmail.com]
 - 😄 Pronouns: He, Tall & Happy 😄
 - :partying_face: Fun fact: Eating, sleeping, and exploring new places with my crew are my favorite things.
 
