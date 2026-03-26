@@ -49,12 +49,9 @@ I love to learn new things and read books.
 
 
 # 📊 GitHub Stats:
-![]()<br/>
 <p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=RayhanShajib&theme=dark&hide_border=false"></p>
 <p align="center" > <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanShajib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> </p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanShajib&theme=chartreuse-dark"></p>
-
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=RayhanShajib&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RayhanShajib&icon=0&color=0)](https://visitcount.itsvg.in)
