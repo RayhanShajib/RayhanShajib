@@ -24,6 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 
 I'm working as a Web Developer and Designer with a strong focus on building scalable web solutions and intuitive user experiences. With a deep interest in cloud infrastructure and modern web technologies, I specialize in creating responsive, high-performance applications.
+
 My core tech stack includes JavaScript, React.js, TypeScript, Redux, and Tailwind CSS, complemented by experience with Next.js, Node.js, MongoDB, Firebase, and Bootstrap. I'm also proficient in C, Java, and Python, giving me a solid foundation in programming fundamentals.
 I thrive at the intersection of design and development — crafting interfaces that are not only functional but visually compelling. Beyond writing code, I'm committed to helping individuals and businesses grow their personal brand and digital presence.
 
